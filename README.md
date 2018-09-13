@@ -10,7 +10,7 @@
 
 > [A Message to My Lover](https://willangus.github.io/musicshare/Raps/Original/05%20A%20Message%20to%20My%20Lover.mp3)
 
-![alt text](https://willangus.github.io/musicshare/img/IMG_3995.JPG)
+![alt text](https://raw.githubusercontent.com/WillAngus/musicshare/gh-pages/img/IMG_3995.JPG)
 
 ## Raps Reminagined (2017)
 
